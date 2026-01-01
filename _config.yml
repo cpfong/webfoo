@@ -2,4 +2,4 @@ title: webfoo
 description: GitHub Pages built-in theme demo
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-modernist
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: just-the-docs/just-the-docs
